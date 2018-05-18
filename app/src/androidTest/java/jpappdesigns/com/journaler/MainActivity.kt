@@ -1,2 +1,0 @@
-package jpappdesigns.com.journaler
-
